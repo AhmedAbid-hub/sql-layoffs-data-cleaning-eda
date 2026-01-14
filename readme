@@ -1,0 +1,4 @@
+# SQL Layoffs Data Cleaning & EDA
+
+Data cleaning and exploratory data analysis (EDA) on a layoffs dataset using **MySQL**.  
+Includes duplicate removal, data standardization, NULL handling, and SQL-based analysis.
