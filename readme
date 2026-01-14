@@ -2,3 +2,14 @@
 
 Data cleaning and exploratory data analysis (EDA) on a layoffs dataset using **MySQL**.  
 Includes duplicate removal, data standardization, NULL handling, and SQL-based analysis.
+
+## Exploratory Data Analysis (EDA)
+
+The EDA was performed using SQL to analyze layoffs trends by:
+- company
+- industry
+- country
+- year and month
+- funding stage
+
+The analysis includes aggregation, time-based trends, and ranking of companies by layoffs.
